@@ -1,3 +1,4 @@
+// Enter Your Birthday Date
 const endDate = "30 December 2023 6:00 PM"
 document.getElementById("endDate").innerHTML = endDate
 function clock() {
